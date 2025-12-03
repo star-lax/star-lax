@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm amlan</h1>
-<h3 align="center">A passionate developer from India. curios and currently exploring</h3>
+<h3 align="center">A passionate developer from India. curioUs and currently exploring</h3>
 
 - 🔭 I’m currently working on **securevolt**
 
