@@ -1,6 +1,9 @@
-(https://github.com/user-attachments/assets/d3a2b3bc-0485-4673-b8c5-3ace733be040)
-load "kokushibou-moon-breathing-kimetsu-no-yaiba-moewalls-com.mp4" -->
+
 <h1 align="center">Hi 👋, I'm amlan</h1>
+
+https://github.com/user-attachments/assets/6dfa7cec-0be4-4b3d-9724-38cf4c030d81
+
+
 <h3 align="center">A passionate developer from India. curioUs and currently exploring</h3>
 
 - 🔭 I’m currently working on **securevolt**
