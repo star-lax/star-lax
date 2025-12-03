@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">A passionate developer from India. curioUs and currently exploring</h3>
+<h3 align="center">A passionate developer from India. curious and currently exploring</h3>
 
 - 🔭 I’m currently working on **securevolt**
 
