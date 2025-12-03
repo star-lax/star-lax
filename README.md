@@ -1,7 +1,11 @@
 
+
+
+https://github.com/user-attachments/assets/955a5f47-fb19-43f0-9a3f-2523a1fc2469
+
 <h1 align="center">Hi 👋, I'm amlan</h1>
 
-https://github.com/user-attachments/assets/6dfa7cec-0be4-4b3d-9724-38cf4c030d81
+
 
 
 <h3 align="center">A passionate developer from India. curioUs and currently exploring</h3>
