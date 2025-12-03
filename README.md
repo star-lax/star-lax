@@ -1,7 +1,8 @@
 
+![Cool Anime Wallpapers Jjk](https://github.com/user-attachments/assets/bc5f0ac3-b298-4d16-808e-51c18e09d63b)
 
 
-https://github.com/user-attachments/assets/955a5f47-fb19-43f0-9a3f-2523a1fc2469
+
 
 <h1 align="center">Hi 👋, I'm amlan</h1>
 
